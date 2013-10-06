@@ -1,3 +1,4 @@
+This fork is going to fix [#97](https://github.com/ddollar/foreman/issues/97), for Redhat/CentOS
 # Foreman
 
 Manage Procfile-based applications
